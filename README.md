@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SilvioCargnin
 - 👀 I’m interested in work!
-- 🌱 I’m currently learning Java and another things.
+- 🌱 I’m currently learning: Analysis and systems development.
 - 💞️ I’m looking to collaborate on Earth.
 - 📫 How to reach me: Social Media
 - ⚡ Fun fact: I'am a noob!
